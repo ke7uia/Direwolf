@@ -1,4 +1,4 @@
-# Direwolf
+# Direwolf APRS on a Raspberry Pi Pico
 ## Instructions to configure and run direwolf
 - This information came from: https://www.youtube.com/watch?v=_ynCsnNOELo&t=201s
 - Also read this file: https://app.simplenote.com/publish/Zp8Fvl
