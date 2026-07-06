@@ -13,8 +13,10 @@
   -  AGWPORT 8000
   -  KISSPORT 8001
   -  TBEACON DELAY=0:30 EVERY=1:00 VIA=WIDE1-1 SYMBOL=car
+
+ 
 - ## Then we have to make a startup.sh script and make it executable
-  -#!/bin/bash
+  #!/bin/bash
         sleep 20
         #check if GPS is plugged in
         gpspipe -r -n 5
